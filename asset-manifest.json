@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/guest-board-blog/static/css/main.8d166ea9.css",
+    "main.js": "/guest-board-blog/static/js/main.684b8de3.js",
+    "static/js/787.b0e8f135.chunk.js": "/guest-board-blog/static/js/787.b0e8f135.chunk.js",
+    "static/media/04_LINEUP_board.jpg": "/guest-board-blog/static/media/04_LINEUP_board.6ab1aa5273018ea79619.jpg",
+    "static/media/LCDDot-TR.woff": "/guest-board-blog/static/media/LCDDot-TR.11cfc9fcdec374c0c449.woff",
+    "index.html": "/guest-board-blog/index.html",
+    "main.8d166ea9.css.map": "/guest-board-blog/static/css/main.8d166ea9.css.map",
+    "main.684b8de3.js.map": "/guest-board-blog/static/js/main.684b8de3.js.map",
+    "787.b0e8f135.chunk.js.map": "/guest-board-blog/static/js/787.b0e8f135.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d166ea9.css",
+    "static/js/main.684b8de3.js"
+  ]
+}
